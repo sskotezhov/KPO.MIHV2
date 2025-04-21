@@ -1,0 +1,25 @@
+1745420730045:animal add --name "Leo" --type PREDATOR --birthDate "2020-01-15" --gender M --favoriteFood MEAT --healthy true
+1745420739242:enclosure add --type PREDATOR --size 100.0 --maxCapacity 5
+1745420746413:animal move --animalId 1 --enclosureId 1
+1745422856322:animal add --name "Leo" --type PREDATOR --birthDate "2020-01-15" --gender M --favoriteFood MEAT --healthy true
+1745422861532:enclosure add --type PREDATOR --size 100.0 --maxCapacity 5
+1745422865711:animal move --animalId 1 --enclosureId 1
+1745422870521:feeding add --animalId 1 --time "10:00" --foodType MEAT
+1745422874424:animal list
+1745422883529:enclosure list
+1745422887008:feeding list
+1745423388382:animal add --name "Leo" --type PREDATOR --birthDate "2020-01-15" --gender M --favoriteFood MEAT --healthy true
+1745423392490:enclosure add --type PREDATOR --size 100.0 --maxCapacity 5
+1745423395763:animal move --animalId 1 --enclosureId 1
+1745423399751:feeding add --animalId 1 --time "10:00" --foodType MEAT
+1745423403653:animal list
+1745423408862:enclosure list
+1745423413254:feeding list
+1745423579064:animal add --name "Leo" --type PREDATOR --birthDate "2020-01-15" --gender M --favoriteFood MEAT --healthy true
+1745423584621:animal list
+1745423591000:enclosure add --type PREDATOR --size 100.0 --maxCapacity 5
+1745423603741:enclosure list
+1745423614250:animal move --animalId 1 --enclosureId 1
+1745423620197:enclosure list
+1745423625139:feeding add --animalId 1 --time "10:00" --foodType MEAT
+1745423630276:feeding list
