@@ -1,1 +1,2 @@
-в spring-shell.log лежат примеры команд
+в spring-shell.log лежат примеры команд(нужно убрать цифры в начале - это время, по сути просто из 1745420730045:animal add --name "Leo" --type PREDATOR --birthDate "2020-01-15" --gender M --favoriteFood MEAT --healthy true нужно убрать 1745420730045: и заслать проге запрос вида animal add --name "Leo" --type PREDATOR --birthDate "2020-01-15" --gender M --favoriteFood MEAT --healthy true
+. в таргете лежит сбилженный проект, но можно ручками mvn clean install && mvn spring-boot:run
